@@ -31,7 +31,7 @@ twitter_username: vikpek
 github_username:  vikpek
 
 # Build settings
-theme: no-style-please
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
